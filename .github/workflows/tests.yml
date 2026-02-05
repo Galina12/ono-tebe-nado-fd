@@ -19,4 +19,8 @@ jobs:
       - name: Tests
         uses: Yandex-Practicum/test-project-action@v1
         with:
+<<<<<<< HEAD
           project: 'ono-tebe-nado-fd'
+=======
+          project: 'ono-tebe-nado'
+>>>>>>> 090635658b74f939c3fbd25628b22468adb8824a

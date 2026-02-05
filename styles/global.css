@@ -7,7 +7,11 @@
 body {
   width: 1100px;
   margin: 0 auto;
+<<<<<<< HEAD
   font-family: "Raleway", sans-serif;
+=======
+  font-family: Raleway, sans-serif;
+>>>>>>> 090635658b74f939c3fbd25628b22468adb8824a
 }
 
 h1,
@@ -26,13 +30,20 @@ blockquote {
 }
 
 a {
+<<<<<<< HEAD
   color: inherit;    
+=======
+  color: inherit;
+>>>>>>> 090635658b74f939c3fbd25628b22468adb8824a
 }
 
 img {
   width: 100%;
 }
+<<<<<<< HEAD
 
 button {
   font: inherit;
 }
+=======
+>>>>>>> 090635658b74f939c3fbd25628b22468adb8824a
