@@ -1,1 +1,1 @@
-https://github.com/Galina12/first-project.git
+https://github.com/Galina12/ono-tebe-nado.git
